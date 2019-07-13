@@ -1,0 +1,19 @@
+:root {
+    --bg-button: #f0f0f0;
+    --border-button: solid 1px #888;
+}
+
+.button {
+    font-family: 'Roboto Mono', monospace !important;
+    font-size: 1.4em;
+    background-color: var(--bg-button);
+    border: none;
+    border-top: var(--border-button);
+    border-left: var(--border-button);
+    outline: none;
+    transition: .2s ease-in-out;
+}
+
+.button:active {
+    background-color: #ccc;
+}
