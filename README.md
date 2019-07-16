@@ -10,7 +10,7 @@ Acesse a calculadora clicando aqui: [live preview](https://atlvntis.co/reactjs-c
 
 ### English
 
-ReactJS Calculator is a fully functional calculator built in ReactJS. The calculator's design was extremelly based on MacOS' calculator.
+ReactJS Calculator is a fully functional calculator built from scratch in ReactJS. The calculator's design was extremelly based on MacOS' calculator.
 
 The project presented above was developed with the purpose of learning and practicing ReactJS. The calculator was made by following the instructions of an udemy course, which can be found [clicking here](https://www.udemy.com/course/curso-web/).
 The project utilized many ReactJS features, such as components, states and proprierties. However the project covered some other "basic" themes, such as html, css and javascript.
